@@ -1,2 +1,3 @@
 # recursos-compartidos-undercooked
-Repositorio de recursos compartidos.  Colocar solamente assets creative commons. Colocar en archivo Readme la licencia para cada archivo o folder (grupo de archivos del mismo autor) que se coloque
+Repositorio de recursos compartidos.  Colocar solamente assets creative commons o de public domain. 
+Colocar en archivo licencias.txt en cada folder donde se detalle el nombre del archivo, autor, tipo de licencia y url de descarga
